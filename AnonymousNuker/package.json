@@ -1,0 +1,17 @@
+{
+  "name": "bedlessnuker",
+  "version": "1.0.0",
+  "description": "\tNuker bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "nuker"
+  ],
+  "author": "bedless",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
+}
